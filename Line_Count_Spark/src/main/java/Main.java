@@ -4,6 +4,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 
 public class Main {
 
+	//added a comment to test synching with git
 	
 	public static void main(String[] args){
 		SparkConf conf = new SparkConf().setAppName("Line_Count");
